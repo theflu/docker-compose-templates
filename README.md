@@ -1,2 +1,2 @@
-# docker-compose-templates
-Boilerplate docker compose templates to get running quickly
+# docker-templates
+Boilerplate docker templates to get running quickly
